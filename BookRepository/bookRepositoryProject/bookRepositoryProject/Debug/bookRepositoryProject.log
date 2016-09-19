@@ -1,0 +1,16 @@
+﻿Build started 26/11/2015 10:12:03.
+     1>Project "C:\Users\Alan\documents\visual studio 2015\Projects\bookRepositoryProject\bookRepositoryProject\bookRepositoryProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Book.cpp
+         Book.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alan\documents\visual studio 2015\Projects\bookRepositoryProject\Debug\bookRepositoryProject.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Alan\documents\visual studio 2015\Projects\bookRepositoryProject\Debug\bookRepositoryProject.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Book.obj
+         Debug\Guest.obj
+         Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         bookRepositoryProject.vcxproj -> C:\Users\Alan\documents\visual studio 2015\Projects\bookRepositoryProject\Debug\bookRepositoryProject.exe
+     1>Done Building Project "C:\Users\Alan\documents\visual studio 2015\Projects\bookRepositoryProject\bookRepositoryProject\bookRepositoryProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70
